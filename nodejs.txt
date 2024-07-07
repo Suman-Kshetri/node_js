@@ -37,3 +37,4 @@ git add . // toppush module also
 git commit -m "message"
 
 git remote add origin repo_link
+or direct form vs code publish

@@ -16,7 +16,8 @@ app.get("/about",(req,res)=>{
 app.get("/contact",(req,res)=>
 {
     const name=""
-    res.render("about.ejs",{name});
+    const email="ksuman20601028@gmail.com"
+    res.render("about.ejs",{name,email});
 })
 
 
