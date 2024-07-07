@@ -1,0 +1,30 @@
+javascript is both scripting as well as programming language
+nodejs is like wings of js
+nodejs is a runtime environment..of javascript
+npm-node package manager
+    step1-npm init
+    all yes
+    or npm init -y
+npm is collection of package....
+npm packages are kept in node_modules
+    express is in npm and are downloaded in node_modules
+    node js is not framework
+    ecpress,django,laravel are framework
+    react is library
+        express is the heart of nodejs
+
+install express :
+        npm i express
+
+major minor patch
+1.2.3[if bug is found in system then version 1 is increased]
+1.2.4
+1.2.10
+1.3.0
+
+
+node js ko project port no 3000 is used ...other cannot use this port number
+
+node --watch app.js//to automatically refresh if any changes occur in the code
+other wise enter node app.js
+
