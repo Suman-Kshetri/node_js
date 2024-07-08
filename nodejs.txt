@@ -38,3 +38,27 @@ git commit -m "message"
 
 git remote add origin repo_link
 or direct form vs code publish
+
+
+mongodb
+username: ksuman20601028
+password:s10022006k
+mongodb+srv://ksuman20601028:s10022006k@cluster0.zf76yxi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+ORM and ODM : gives security....but not sql 
+ORM : sequeline, prisma:sql based
+ODM:mongoose: mongodb:vscode bata databse sanga data pathauna mongoose is used
+
+note:programming languagecases:
+        1.CAMEL CASE: helloWorld/ sumanKshetri
+        2.snake_case:hello_world/ suman_kshetri
+        3.pascalcase: HelloWorld/ sumanKshetri
+        4.kabab case: hello-world/ suman-kshetri
+
+CJS-common JS like const mongoose=required("mongooose:")
+ES:- Ecma script like import 'mongoose'
+
+connection to database:
+
+    Network rewqurest: then use await
+        await and async are like two side of a coin
