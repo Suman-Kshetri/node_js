@@ -62,3 +62,12 @@ connection to database:
 
     Network rewqurest: then use await
         await and async are like two side of a coin
+
+
+middleware()-> file handling ->multer-> npm i multer
+    it eill watch wether the user has joined or will going to see everything that a user does
+    it blocks if too many request is send 
+    it will checks the user role and its permissions
+
+    call(error,success)
+    cb(error)
